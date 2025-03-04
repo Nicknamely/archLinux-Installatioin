@@ -1,4 +1,4 @@
-I copied and pasted the content from Deepseek because I got lazy. I put it here to document it for future reference and research.
+I copied and pasted the content from Deepseek because I got lazy. I put it here to document it for future reference and research. Need to understand it first
 ---
 
 Here's the **best approach for swap configuration** with Btrfs on your ThinkPad T460p (i5-6440HQ/16GB RAM/1TB SSD):
