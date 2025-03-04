@@ -5,15 +5,15 @@ inspired by [ML4W](https://www.ml4w.com)
 I recently upgraded my laptop with a new 1TB SSD and 16GB RAM.
 With an Intel i5-6440HQ CPU and Intel HD 530 GPU, I decided to reinstall a
 clean, modern, and optimized Arch Linux system (minimal but not that "minimal") . This guide is intended for
-programming and school use, and can serve as a reference for others. I chose to
+programming and school use, and can serve as a reference for others(hoping). I chose to
 migrate from ext4 to Btrfs for the features.
 
 I opted not to use encryption due to the inconvenience of double login screens.
-I plan to set up encryption once I have a laptop with TPM support, allowing for
+I plan to set up encryption once I have a laptop with TPM support (hopping for a framework13), allowing for
 a single themed login screen. Your advice and insights are welcome as I want to
 learn and improve.
 
-This guide is based on extensive documentation, prompting, and video tutorials.
+This guide is based on extensive documentation, "AI" prompting, and video tutorials.
 There are still areas for improvement and further study, such as Btrfs swap
 configuration ( see files).
 
