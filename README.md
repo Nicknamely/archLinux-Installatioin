@@ -129,7 +129,7 @@ echo "/swapfile none swap defaults,discard 0 0" >> /etc/fstab
 
 ## GPU & Boot
 
-> [!warning] Need more documentation
+> [!warning] Specific to my cPU
 
 ```bash
 # Intel GPU configuration
@@ -139,7 +139,7 @@ echo "MODULES=(i915)" >> /etc/mkinitcpio.conf
 
 ## GRUB installation
 
-> [!warning] Need more documentation
+> [!warning] specific to my CPU 
 
 ```bash
 grub-install --target=x86_64-efi --efi-directory=/boot/efi --bootloader-id=GRUB
