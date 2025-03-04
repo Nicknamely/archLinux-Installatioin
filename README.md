@@ -1,4 +1,4 @@
-# Arch Linux Installation Cheat Sheet (T460p Optimized)
+# Arch Linux Installation Cheat Sheet (T460p Optimized) Not ready yet!
 
 inspired by [ML4W](https://www.ml4w.com)
 
