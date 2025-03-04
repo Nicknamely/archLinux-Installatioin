@@ -1,11 +1,11 @@
-# Arch Linux Installation Cheat Sheet (T460p Optimized) Not ready yet!
+# Arch Linux Installation plan (T460p Optimized) Not ready yet!
 
 inspired by [ML4W](https://www.ml4w.com)
 
 I recently upgraded my laptop with a new 1TB SSD and 16GB RAM.
 With an Intel i5-6440HQ CPU and Intel HD 530 GPU, I decided to reinstall a
-clean, modern, and optimized Arch Linux system (minimal but not that "minimal") . This guide is intended for
-programming and school use, and can serve as a reference for others(hoping). I chose to
+clean, modern, and optimized Arch Linux system (minimal but not that "minimal") . This plan is intended for
+programming and school use, and can serve as a reference for others(hoping it is good enough). I chose to
 migrate from ext4 to Btrfs for the features.
 
 I opted not to use encryption due to the inconvenience of double login screens.
@@ -13,9 +13,11 @@ I plan to set up encryption once I have a laptop with TPM support (hopping for a
 a single themed login screen. Your advice and insights are welcome as I want to
 learn and improve.
 
-This guide is based on extensive documentation, "AI" prompting, and video tutorials.
+This plan was made through extensive documentation, "AI" prompting mostly for formatting, and video tutorials for some explanation and takes.
 There are still areas for improvement and further study, such as Btrfs swap
 configuration ( see files).
+
+Only cover the installation.
 
 ## Preparation
 
